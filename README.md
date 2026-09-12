@@ -1,8 +1,7 @@
 # Assignment-1_Why-Are-We-Here-_Leaya-Larosn
 SD9513
 
-Though AI is becoming more and more prevalent in every industry, I still carry mixed emotions on using it even as a tool for creative 
-tasks. AI since my undergraduate has been a constant reminder that one day my career path will be obsolete. While I will always 
+Though AI is becoming more and more prevalent in every industry, I still carry mixed emotions on using it even as a tool for creative tasks. AI since my undergraduate has been a constant reminder that one day my career path will be obsolete. While I will always 
 believe that human art will have a place in the global and local economies, it seems that generative models will take the bulk of the 
 junior roles from younger generations. The only way around this inevitability is to learn how to use these AI tools to my advantage.
 
@@ -22,4 +21,10 @@ those who can understand the depths of the product’s code base. Slowly, AI has
 Allowing me to continuously push game-ready assets without needing to bother those whose time is better spent on creating game 
 systems. 
 
-The only issue is that I barely can read it on my own. 
+The only issue is that I barely can read it on my own. To use AI is one matter, to be completely reliant on it is another. No plan 
+is in place for me to stop using it as a tool for technical art tasks; the problem is that I shouldn’t depend on it for skill that 
+can be easily acquired. Several instances of AI hallucinating, creating bugs where there were none, or destroying entire lines of 
+code exists in multitudes. Understanding how these models mess up so bad and then understanding the solution has now become one of 
+the most crucial skills in our AI-driven workplace. That is why I, and many others, take this class. To understand how to properly 
+use AI while being able to observe and correct mistakes in real time. Which skills then transfer easily upon entering into a 
+creative production environment. 
