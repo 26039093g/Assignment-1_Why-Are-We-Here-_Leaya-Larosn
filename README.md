@@ -33,12 +33,12 @@ creative production environment.
 
 # Bibliography 
 
-Ip, J. (2026, February 9). Common bugs in AI-generated code and fixes. Ranger. https://www.ranger.net/post/common-bugs-ai-generated-code-fixes 
+Ip, J. (2026, February 9). Common bugs in AI-generated code and fixes. Ranger. https://www.ranger.net/post/common-bugs-ai-generated-code-fixes
 
-Kumawat, K. (2025, October 28). What does creativity mean in the age of ai? | by Kalyani Kumawat | Medium. Medium. https://medium.com/@kalyanikumawat/what-does-creativity-mean-in-the-age-of-ai-d4e1aa8d11b2 
+Kumawat, K. (2025, October 28). What does creativity mean in the age of ai? | by Kalyani Kumawat | Medium. Medium. https://medium.com/@kalyanikumawat/what-does-creativity-mean-in-the-age-of-ai-d4e1aa8d11b2
 
-Oatley, G. (2026, June 6). Ai doesn’t write bad code. it writes code that looks good enough to fool you. LinkedIn. https://www.linkedin.com/pulse/ai-doesnt-write-bad-code-writes-looks-good-enough-fool-garth-oatley-pljme/ 
+Oatley, G. (2026, June 6). Ai doesn’t write bad code. it writes code that looks good enough to fool you. LinkedIn. https://www.linkedin.com/pulse/ai-doesnt-write-bad-code-writes-looks-good-enough-fool-garth-oatley-pljme/
 
-Shen, K. (2025, November 25). When algorithms create, who’s the artist? The Tech. https://thetech.com/2025/11/25/ai-art 
+Shen, K. (2025, November 25). When algorithms create, who’s the artist? The Tech. https://thetech.com/2025/11/25/ai-art
 
-Štágl, M. (2025, November 8). Why most AI coding tools fail (and how they succeed). DEV Community. https://dev.to/lofcz/why-most-ai-coding-tools-fail-and-how-they-succeed-i31 
+Štágl, M. (2025, November 8). Why most AI coding tools fail (and how they succeed). DEV Community. https://dev.to/lofcz/why-most-ai-coding-tools-fail-and-how-they-succeed-i31
