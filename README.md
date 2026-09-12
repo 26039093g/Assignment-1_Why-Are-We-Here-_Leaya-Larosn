@@ -20,10 +20,10 @@ Creating assets through prompting goes against both my morals and practical uses
 code is a crucial step. That is what AI tools already specialized in. Checking my simple code and fixing the bugs that are created 
 through my push. The computer assists me in understanding what went wrong and what went right, allowing me to comment properly for 
 those who can understand the depths of the product’s code base. Slowly, AI has become an indispensable tool for team management. 
-Allowing me to continuously push game-ready assets without needing to bother those whose time is better spent on creating game 
+Giving me the ability to continuously push game-ready assets without needing to bother those whose time is better spent on creating game 
 systems. 
 
-The only issue is that I barely can read it on my own. To use AI is one matter, to be completely reliant on it is another. No plan 
+The current problem is that I barely can read it on my own. To use AI is one matter, to be completely reliant on it is another. No plan 
 is in place for me to stop using it as a tool for technical art tasks; the problem is that I shouldn’t depend on it for skill that 
 can be easily acquired. Several instances of AI hallucinating, creating bugs where there were none, or destroying entire lines of 
 code exists in multitudes. Understanding how these models mess up so bad and then understanding the solution has now become one of 
