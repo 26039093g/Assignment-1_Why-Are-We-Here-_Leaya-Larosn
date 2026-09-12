@@ -2,7 +2,7 @@
 
 Deepseek AI was used to ideate the format of the essay and what to include. I took 
 some of the suggestions into a separate document and created my draft from there 
-using my own writing and readings from personal research. 
+using my own writing and readings from personal research. Though I did not use it for translation or anything similar as a native speaker of english.
 
 # One Thing That I Kept 
 
